@@ -77,3 +77,50 @@ So, what would I change?
 Well, I’d give it a proper chassis for one. But in terms of code logic, a classmate actually made me realise during the class demonstration that I forgot something. If a user taps their passcard, that ID is stored on the lock indefinitely, until a passcode is entered. Really I should’ve implemented a timer that times it out and resets the lock. Also, Pia suggested more instruction to the user on how to use the lock. That the ‘#’ key clears the passcode entry and that the ‘*’ key enters it. I was used to this setup from other actual passcode locks, but I shouldn’t have assumed, documentation is always useful.
 
 Either way, I really enjoyed this project, and feel much more comfortable working with more Arduino components now.
+
+# Week 7 - Assignent 2 Prep and Concept
+
+Group project time! Group projects are always a mixed bag, but I’ve been very lucky with them during my time as an ANU student so far. This is no exception! I’m on very good terms with my entire group and we enjoy working with and collaborating with each other. 
+
+As for our plans overall, all of us are intrigued by the idea of meshing plant and robot together into some kind of WALL-E-esque plant tank thing. Fun!
+
+![Image](https://i.imgur.com/4WX97q1.png)
+
+What does that mean? Well, by plant tank, I mean a mobile platform that allows for a potted plant to travel around of its “own accord” based on certain parameters. Parameters you say?
+
+What does a plant need?
+
+- Water
+- Sunlight
+- Nutrients
+- Love
+- Affection
+- ~~World Domination~~
+
+So, our concept is to help a plant attain these things. A plant robot that tells it’s owner what it needs, how to care for it, and injects a little personality into it. That’s the concept anyway.
+
+![Image](https://i.imgur.com/vWyazBq.png)
+
+Like all good projects, we don’t expect to achieve all of our goals, and that this project will change shape quite a lot by the time of the final submission.
+
+But for now, my job is to help with the mobility and logic of the plant. The tank part I guess. I actually have some experience in this field! Some years ago I was part of an Arduino project to make a robot that could solve and drive through a maze! It was a fun project that Covid made very very difficult. But, thanks to GitHub (see first blog post) I still have that code and those wiring diagrams! 
+
+So, my plan is to go through this code and take what useful functions I can. No point reinventing my own wheel. Obviously not all of it will be applicable, but the basic driving functions I wrote, and the object avoidance ones, will be invaluable to this project.
+
+# Week 9 - Progress on Plant Robot
+
+Alright! Progress report.
+
+We’ve been working through the robot as a group. Would you believe that making a robot is a difficult task with lots of complex problems to solve and can’t just be done in 10 minutes? Wild I know. It’s almost like it takes millions of dollars and hundreds of engineers and programmers and [good dance moves](https://www.youtube.com/watch?v=fn3KWM1kuAw).
+
+But, still, we’ve been busy. I’ve spent many hours rewriting my old maze-solving code to be better. Rereading code that’s several years old was a chore. It was commented reasonably well, but even I can tell how terribly and inefficiently it was written. So I went back through and redid most of it, focusing on readability and modularity.
+
+I am a big proponent of splitting almost everything into component functions that can be edited separately and either called or not as needed. Makes testing much easier when you can just not call a certain function instead of commenting out a huge portion of the main code loop.
+
+So, right now the main code loop just calls four or five functions in order, such as the Sonar detector, the wheels, etc. My group members are working on other functions (such as the moisture detection and LCD face) and I will be responsible for integrating all the code together. I’m looking forward to it!
+
+![Image](https://media.discordapp.net/attachments/966494031918014494/973083534925365299/Screen_Shot_2022-05-09_at_2.45.34_pm.png)
+
+Thankfully I kept the wiring diagram for how to wire up the motors and the sonar module, because I really really didn’t want to have to re-figure all that out. Housing the device has fallen through a little, unfortunately. Our original plan was to create a 3D printed, custom housing for the device, and also have 3D printed caterpillar tracks for movement. However our prints have kept failing and we don’t believe we have the time to commit to it anymore. But, for posterity, here is an early concept model! Fun times!
+
+![Image](https://i.imgur.com/f2ihtNn.jpg)
