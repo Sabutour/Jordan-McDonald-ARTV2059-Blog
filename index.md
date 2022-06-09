@@ -185,3 +185,19 @@ _Our beautiful robot._
   So yeah. One interesting and difficult problem solved by a fun and sorta rediculous solution. I love it! There is currently another issue that we're having and that is that the motors we have for the wheels seem to be broken. They're rather old ones that have had use before, and they seem to not handle charge properly. A set of replacement batteries were procured by group member Jonathon Hanlon but these likewise seemed to not work. As the presentation is tomorrow, this is a concern. Group member Emily is going to try and pick some up tomorrow morning before class, but it's likely going to be a late night.
   
   # Week 14 - Reflections
+  
+  Its...its done. The presentation, the robot. It's finished. I almost can't believe it.
+  
+  Okay, I may be getting ahead of myself. The presentation has been completed, yes, but the assignment not yet. But boy is this going to be a finale of a blog post.
+  
+  So, full disclosure, I am overtired. Wayyy overtired. Group member Emily James and I had a very long night getting our robot fully ready for the presentation. Due to a whole series of issues that we had (see last post), we did not get to bed until about 5am. The presentation was at 9am the next morning. Not much sleep at all. Now I see how Crunch Time is such a pervasive issue in the programming world.
+  
+  But I digress. We pushed through the night fixing issues one at a time. The LCD display issue which required dual core Arduinos, the motors (Emily had to go buy new motors the morning of and then we Blu-Tac'ed them onto the robot just before the presentation, which worked!) and issues with the microphone's sensitivity. If we had a few days to do all of this it would have been fine but all in one night (a 14 hour session) was a lot. Thankfully Emily was incredibly helpful and I found our collaboration invaluable in getting through it. Kudos Emily. Kudos.
+  
+  So, what about the presentation? It went rather well! Our entire group presented together and our robot was firing on pretty much all cylinders. We showed up all of the functionality (moisture detection, sound detections, emotions with faces and behaviours, and movement) and they all worked as intended which was very gratifying to see after so much work. And we got some lovely feedback and reactions from Pia and the rest of the class. Several classmates provided audible "awwwws" when the robot was scared which smashed our goal of making a user create an emotional, protective connection with it. Great to see.
+  
+  Obviously the very rag-tag nature of the robot's construction was brought up (literally held together with Blu-Tac in part) but we explained the issues we ran into with 3D printing and what our intentions were. They were understanding.
+  
+  So where does this leave the project? Well, at a hair shy of 1000 lines of code (split across the PLANT-OS file and the FACE-OS file) it's not a small bit of work for us. It accomplished the main feature set we focused on, and we all had a great time working on it. I myself learnt a ton about programming and Arduinos and I would love to work on this project further outside of class. It's sort of reignited my passion for fun, personal projects. Maybe I'll keep this blog updated after the fact. Haha, maybe.
+  
+  - Jordan
