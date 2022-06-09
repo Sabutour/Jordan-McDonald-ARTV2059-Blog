@@ -1,4 +1,4 @@
-## Welcome to a journey of coding and craziness.
+## Coding and Craziness
 
 You can use the [editor on GitHub](https://github.com/Sabutour/Jordan-McDonald-DESN2010-Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
