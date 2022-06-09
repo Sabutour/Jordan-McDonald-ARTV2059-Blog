@@ -50,7 +50,7 @@ When I bought an Arduino starter kit (specifically the "[ELEGOO MEGA 2560 THE MO
 
 However, I intend to use both of them simultaneously. Two-Factor Authentication (TFA or 2FA) is one of the most effective ways to increase the security of an online account, so I wish to apply this concept to a physical lock. My plan to two create a 2FA lock by requiring both the input of a password from the keypad alongside a specific RFID card. If either of these materials are incorrect or not present, the lock will not open.
 
-![Image](blob:https://imgur.com/f8a5de32-f46b-4a69-8387-8fdb85dfacd0
+![Image](https://i.imgur.com/lBpiIYN.png)
 
 That’s the general idea. I’m thinking of using two LEDs, one green and one red, to signal to the user that the code has been either accepted or denied. I’ll have to play around with it some more. It’s still in the concept phase for now. I expect to run into several problems that will slow me down or make me have to change my plans somewhat. I’m not very experienced in C++ (The programming language Arduino is based off of) and so will have to get used to syntax that isn’t JavaScript again. Any issues and I’ll ask Pia for some help. 
 
