@@ -54,3 +54,26 @@ However, I intend to use both of them simultaneously. Two-Factor Authentication 
 
 That’s the general idea. I’m thinking of using two LEDs, one green and one red, to signal to the user that the code has been either accepted or denied. I’ll have to play around with it some more. It’s still in the concept phase for now. I expect to run into several problems that will slow me down or make me have to change my plans somewhat. I’m not very experienced in C++ (The programming language Arduino is based off of) and so will have to get used to syntax that isn’t JavaScript again. Any issues and I’ll ask Pia for some help. 
 
+# Week 6 - Assignment 1 Reflection
+
+It worked! We did it, way to go, team. A working 2FA security lock. It all came together mostly as intended. Let me run you through it.
+
+![Image](blob:https://imgur.com/1b129085-1f1b-4d7c-b793-a7b6f24191b1)
+
+As you can see from this mess of a circuit, there are multiple components: the Arduino, an RFID reader, a 4x4 keypad, and an LCD display. My original concept omitted the LCD display, as I was planning on using green and red LEDs to provide user feedback if the door was locked or unlocked. However, following some in-class feedback, I decided to be a bit more ambitious and use the display to provide more detailed feedback to the user. I think it was a good idea overall. Cheers Pia.
+
+![Image](https://i.imgur.com/duWGzDk.jpg)
+
+The physical construction is much more messy, but hey, it’s a proof of concept. So, how did the final code end up? Actually more complicated than originally intended because of one reason: My ambition. But I’m getting ahead of myself, how does it actually work?
+
+Well, it’s a two stage lock that has to be completed in a specific order. The user has to provide their keycard to the reader. The code searches for the specific user that matches the ID on the card, then waits for their passcode. If the passcode also matches the user, access is temporarily granted, then locked again. (No actual lock or motor is moved, as I wanted to focus on the security part and didn’t want to do everything).
+
+Early code prototypes were much more simple to code, but had a fatal flaw in that it was the least secure lock ever. Originally, any valid passcode could be mixed and matched with any valid keycard. Not good. I had foolishly assumed it was a simple task to make a custom User class, give them a passcode and ID variable and then go from there. 
+
+Nope! JavaScript this is not. I had to write a broken little custom library and include it just to get this idea to work at all, and even then it was janky. But I got there, and I learnt a bit about C, so that’s cool. 
+
+So, what would I change?
+
+Well, I’d give it a proper chassis for one. But in terms of code logic, a classmate actually made me realise during the class demonstration that I forgot something. If a user taps their passcard, that ID is stored on the lock indefinitely, until a passcode is entered. Really I should’ve implemented a timer that times it out and resets the lock. Also, Pia suggested more instruction to the user on how to use the lock. That the ‘#’ key clears the passcode entry and that the ‘*’ key enters it. I was used to this setup from other actual passcode locks, but I shouldn’t have assumed, documentation is always useful.
+
+Either way, I really enjoyed this project, and feel much more comfortable working with more Arduino components now.
