@@ -58,7 +58,7 @@ That’s the general idea. I’m thinking of using two LEDs, one green and one r
 
 It worked! We did it, way to go, team. A working 2FA security lock. It all came together mostly as intended. Let me run you through it.
 
-![Image](blob:https://imgur.com/1b129085-1f1b-4d7c-b793-a7b6f24191b1)
+![Image](https://i.imgur.com/eojOqmM.png)
 
 As you can see from this mess of a circuit, there are multiple components: the Arduino, an RFID reader, a 4x4 keypad, and an LCD display. My original concept omitted the LCD display, as I was planning on using green and red LEDs to provide user feedback if the door was locked or unlocked. However, following some in-class feedback, I decided to be a bit more ambitious and use the display to provide more detailed feedback to the user. I think it was a good idea overall. Cheers Pia.
 
