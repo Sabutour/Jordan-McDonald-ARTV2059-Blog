@@ -47,10 +47,12 @@ So, those are the main tools that’ll be getting me through this class! Let’s
 When I bought an Arduino starter kit (specifically the "[ELEGOO MEGA 2560 THE MOST COMPLETE STARTER KIT](https://www.amazon.com.au/ELEGOO-Complete-Ultimate-Tutorial-Mega2560/dp/B01EWNUUUA)"), my options as to what I could actually make were drastically expanded. Of the many materials included in the kit, the ones that drew my attention most immediately were the Membrane Keypad and the RFID scanner. In this digital world, inputs such as these are routinely used for security devices like safes and door locks.
 
 ![Image](https://i.imgur.com/6BijcZv.png)
+_All the things that come in the kit._
 
 However, I intend to use both of them simultaneously. Two-Factor Authentication (TFA or 2FA) is one of the most effective ways to increase the security of an online account, so I wish to apply this concept to a physical lock. My plan to two create a 2FA lock by requiring both the input of a password from the keypad alongside a specific RFID card. If either of these materials are incorrect or not present, the lock will not open.
 
 ![Image](https://i.imgur.com/lBpiIYN.png)
+_The components I plan to use for my project._
 
 That’s the general idea. I’m thinking of using two LEDs, one green and one red, to signal to the user that the code has been either accepted or denied. I’ll have to play around with it some more. It’s still in the concept phase for now. I expect to run into several problems that will slow me down or make me have to change my plans somewhat. I’m not very experienced in C++ (The programming language Arduino is based off of) and so will have to get used to syntax that isn’t JavaScript again. Any issues and I’ll ask Pia for some help. 
 
@@ -59,10 +61,12 @@ That’s the general idea. I’m thinking of using two LEDs, one green and one r
 It worked! We did it, way to go, team. A working 2FA security lock. It all came together mostly as intended. Let me run you through it.
 
 ![Image](https://i.imgur.com/eojOqmM.png)
+_Final circuit diagram, made using Cirkit Designer._
 
 As you can see from this mess of a circuit, there are multiple components: the Arduino, an RFID reader, a 4x4 keypad, and an LCD display. My original concept omitted the LCD display, as I was planning on using green and red LEDs to provide user feedback if the door was locked or unlocked. However, following some in-class feedback, I decided to be a bit more ambitious and use the display to provide more detailed feedback to the user. I think it was a good idea overall. Cheers Pia.
 
 ![Image](https://i.imgur.com/duWGzDk.jpg)
+_Final construction. Mind the mess._
 
 The physical construction is much more messy, but hey, it’s a proof of concept. So, how did the final code end up? Actually more complicated than originally intended because of one reason: My ambition. But I’m getting ahead of myself, how does it actually work?
 
@@ -85,6 +89,7 @@ Group project time! Group projects are always a mixed bag, but I’ve been very 
 As for our plans overall, all of us are intrigued by the idea of meshing plant and robot together into some kind of WALL-E-esque plant tank thing. Fun!
 
 ![Image](https://i.imgur.com/4WX97q1.png)
+_Our Miro board of ideas and brain-storming._
 
 What does that mean? Well, by plant tank, I mean a mobile platform that allows for a potted plant to travel around of its “own accord” based on certain parameters. Parameters you say?
 
@@ -100,6 +105,7 @@ What does a plant need?
 So, our concept is to help a plant attain these things. A plant robot that tells it’s owner what it needs, how to care for it, and injects a little personality into it. That’s the concept anyway.
 
 ![Image](https://i.imgur.com/vWyazBq.png)
+_Adorable concept art by Izzy Nesci._
 
 Like all good projects, we don’t expect to achieve all of our goals, and that this project will change shape quite a lot by the time of the final submission.
 
@@ -120,7 +126,9 @@ I am a big proponent of splitting almost everything into component functions tha
 So, right now the main code loop just calls four or five functions in order, such as the Sonar detector, the wheels, etc. My group members are working on other functions (such as the moisture detection and LCD face) and I will be responsible for integrating all the code together. I’m looking forward to it!
 
 ![Image](https://media.discordapp.net/attachments/966494031918014494/973083534925365299/Screen_Shot_2022-05-09_at_2.45.34_pm.png)
+_Circuit diagram for two motors and sonar module._
 
 Thankfully I kept the wiring diagram for how to wire up the motors and the sonar module, because I really really didn’t want to have to re-figure all that out. Housing the device has fallen through a little, unfortunately. Our original plan was to create a 3D printed, custom housing for the device, and also have 3D printed caterpillar tracks for movement. However our prints have kept failing and we don’t believe we have the time to commit to it anymore. But, for posterity, here is an early concept model! Fun times!
 
 ![Image](https://i.imgur.com/f2ihtNn.jpg)
+_WIP 3D model for device shell, made by Izzy Nesci._
