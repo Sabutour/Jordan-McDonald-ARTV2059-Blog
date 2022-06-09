@@ -171,6 +171,6 @@ So, what about the presentation? It went rather well! Our entire group presented
   
 Obviously the very rag-tag nature of the robot's construction was brought up (literally held together with Blu-Tac in part) but we explained the issues we ran into with 3D printing and what our intentions were. They were understanding.
   
-So where does this leave the project? Well, at a hair shy of 1000 lines of code (split across the PLANT-OS file and the FACE-OS file) it's not a small bit of work for us. It accomplished the main feature set we focused on, and we all had a great time working on it. I myself learnt a ton about programming and Arduinos and I would love to work on this project further outside of class. It's sort of reignited my passion for fun, personal projects. Maybe I'll keep this blog updated after the fact. Haha, maybe.
+So where does this leave the project? Well, at a hair shy of 1000 lines of code (split across the [PLANT-OS](https://github.com/Sabutour/Jordan-McDonald-DESN2010-Blog/blob/main/PLANT_OS.ino) file and the [FACE-OS](https://github.com/Sabutour/Jordan-McDonald-DESN2010-Blog/blob/main/FACE_OS.ino) file) it's not a small bit of work for us. It accomplished the main feature set we focused on, and we all had a great time working on it. I myself learnt a ton about programming and Arduinos and I would love to work on this project further outside of class. It's sort of reignited my passion for fun, personal projects. Maybe I'll keep this blog updated after the fact. Haha, maybe.
   
   - Jordan
