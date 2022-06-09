@@ -46,4 +46,4 @@ So, those are the main tools that’ll be getting me through this class! Let’s
 
 When I bought an Arduino starter kit (specifically the "[ELEGOO MEGA 2560 THE MOST COMPLETE STARTER KIT](https://www.amazon.com.au/ELEGOO-Complete-Ultimate-Tutorial-Mega2560/dp/B01EWNUUUA)"), my options as to what I could actually make were drastically expanded. Of the many materials included in the kit, the ones that drew my attention most immediately were the Membrane Keypad and the RFID scanner. In this digital world, inputs such as these are routinely used for security devices like safes and door locks.
 
-![Image](https://imgur.com/6BijcZv)
+![Image](https://i.imgur.com/6BijcZv.png)
