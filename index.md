@@ -105,7 +105,7 @@ What does a plant need?
 So, our concept is to help a plant attain these things. A plant robot that tells it’s owner what it needs, how to care for it, and injects a little personality into it. That’s the concept anyway.
 
 ![Image](https://i.imgur.com/vWyazBq.png)
-_Adorable concept art by Izzy Nesci._
+_Adorable concept art by Isabella Nesci._
 
 Like all good projects, we don’t expect to achieve all of our goals, and that this project will change shape quite a lot by the time of the final submission.
 
@@ -131,4 +131,4 @@ _Circuit diagram for two motors and sonar module._
 Thankfully I kept the wiring diagram for how to wire up the motors and the sonar module, because I really really didn’t want to have to re-figure all that out. Housing the device has fallen through a little, unfortunately. Our original plan was to create a 3D printed, custom housing for the device, and also have 3D printed caterpillar tracks for movement. However our prints have kept failing and we don’t believe we have the time to commit to it anymore. But, for posterity, here is an early concept model! Fun times!
 
 ![Image](https://i.imgur.com/f2ihtNn.jpg)
-_WIP 3D model for device shell, made by Izzy Nesci._
+_WIP 3D model for device shell, made by Isabella Nesci._
