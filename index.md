@@ -132,3 +132,35 @@ Thankfully I kept the wiring diagram for how to wire up the motors and the sonar
 
 ![Image](https://i.imgur.com/f2ihtNn.jpg)
 _WIP 3D model for device shell, made by Isabella Nesci._
+
+So, we’ll need to come up with an alternate solution. It might not be pretty, but we hope it’ll be functional. Alright, back to work! See you next post.
+
+# Week 12 - Taking Stock
+
+Okay, ride or die time. The presentation is tomorrow. Consider this post a snapshot of where we're at. There's quite a bit to catch up on since my last post. A lot has had to come together in a very short time and even now there are still some problems we need to solve, but I think we're going to be okay.
+
+![Image](https://i.imgur.com/C3o3SMX.gif)
+_Face concepts by Isabella Nesci_
+
+So, let's start with some cool stuff. Group member Emily James has done great work turning a 4 digit 7 segment LCD display into an adorable little face (see concept art above.) But we ran into a really interesting and unexpected issue with the LCD display. See, it does not light up each digit at the same time. Rather, it lights each digit one at a time, very quickly so that the eye doesn't notice the delay. This was problematic as once this face code was added to the main Arduino loop that includes sonar and driving code, the runtime of that extra code was enough to slow down the LCD refresh rate and completely broke the effect. 
+
+![Image](https://media.discordapp.net/attachments/966494031918014494/979090328399282266/PXL_20220525_183158377.MP.jpg?width=1776&height=1332)
+
+Our solution? Two Arduinos! That's right, this baby is a dual core! Also, behold our amazing and makeshift shell for the device. After our 3D casing failed we resorted to a wooden box with cutouts for wires and the sonar module. It works, but unfortunately not pretty, but a prototype is a prototype. Anyway, dual core! Using the Arduino Wire library we have a main board that runs the majority of the code (Moisture Sensor, Sonar, Movement, etc) and the second board is only running the Face code. Board 1 makes note of the current state of the robot (HAPPY, SAD, BORED, etc) and sends this to Board 2 in the form of a single digit int. 
+
+```
+// CORE FUNCTION
+  // Sends the current state information to the FaceManager board.
+  void Transmitter() {
+    Serial.print("State = ");
+    Serial.println(currentState);
+    Serial.println("Transmitting");
+    Wire.beginTransmission(9);      // transmit to device #9
+    Wire.write(currentState);       // sends currentState 
+    Wire.endTransmission();         // stop transmitting
+    delay(500);
+  }
+  ```
+  _Code segment from the main file, transmits state to Board 2._
+  
+  
