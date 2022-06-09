@@ -47,3 +47,10 @@ So, those are the main tools that’ll be getting me through this class! Let’s
 When I bought an Arduino starter kit (specifically the "[ELEGOO MEGA 2560 THE MOST COMPLETE STARTER KIT](https://www.amazon.com.au/ELEGOO-Complete-Ultimate-Tutorial-Mega2560/dp/B01EWNUUUA)"), my options as to what I could actually make were drastically expanded. Of the many materials included in the kit, the ones that drew my attention most immediately were the Membrane Keypad and the RFID scanner. In this digital world, inputs such as these are routinely used for security devices like safes and door locks.
 
 ![Image](https://i.imgur.com/6BijcZv.png)
+
+However, I intend to use both of them simultaneously. Two-Factor Authentication (TFA or 2FA) is one of the most effective ways to increase the security of an online account, so I wish to apply this concept to a physical lock. My plan to two create a 2FA lock by requiring both the input of a password from the keypad alongside a specific RFID card. If either of these materials are incorrect or not present, the lock will not open.
+
+![Image](blob:https://imgur.com/f8a5de32-f46b-4a69-8387-8fdb85dfacd0
+
+That’s the general idea. I’m thinking of using two LEDs, one green and one red, to signal to the user that the code has been either accepted or denied. I’ll have to play around with it some more. It’s still in the concept phase for now. I expect to run into several problems that will slow me down or make me have to change my plans somewhat. I’m not very experienced in C++ (The programming language Arduino is based off of) and so will have to get used to syntax that isn’t JavaScript again. Any issues and I’ll ask Pia for some help. 
+
