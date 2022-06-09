@@ -123,6 +123,21 @@ But, still, we’ve been busy. I’ve spent many hours rewriting my old maze-sol
 
 I am a big proponent of splitting almost everything into component functions that can be edited separately and either called or not as needed. Makes testing much easier when you can just not call a certain function instead of commenting out a huge portion of the main code loop.
 
+```
+// Main repeated code loop. First checks for sounds, then updates the state machine,
+  // sends that update to FaceManager Board, then checks moisture. These functions have been
+  // split up for modularity and for easier debugging (able to turn off whole functions
+  // to check what is causing a possible issue.)
+  void loop()
+  {
+    SoundReact();
+    stateMachine();
+    Transmitter();
+    MoistureReader();
+  }
+  ```
+  _Code excerpt from main file. Author me._
+
 So, right now the main code loop just calls four or five functions in order, such as the Sonar detector, the wheels, etc. My group members are working on other functions (such as the moisture detection and LCD face) and I will be responsible for integrating all the code together. I’m looking forward to it!
 
 ![Image](https://media.discordapp.net/attachments/966494031918014494/973083534925365299/Screen_Shot_2022-05-09_at_2.45.34_pm.png)
@@ -145,6 +160,7 @@ _Face concepts by Isabella Nesci_
 So, let's start with some cool stuff. Group member Emily James has done great work turning a 4 digit 7 segment LCD display into an adorable little face (see concept art above.) But we ran into a really interesting and unexpected issue with the LCD display. See, it does not light up each digit at the same time. Rather, it lights each digit one at a time, very quickly so that the eye doesn't notice the delay. This was problematic as once this face code was added to the main Arduino loop that includes sonar and driving code, the runtime of that extra code was enough to slow down the LCD refresh rate and completely broke the effect. 
 
 ![Image](https://media.discordapp.net/attachments/966494031918014494/979090328399282266/PXL_20220525_183158377.MP.jpg?width=1776&height=1332)
+_Our beautiful robot._
 
 Our solution? Two Arduinos! That's right, this baby is a dual core! Also, behold our amazing and makeshift shell for the device. After our 3D casing failed we resorted to a wooden box with cutouts for wires and the sonar module. It works, but unfortunately not pretty, but a prototype is a prototype. Anyway, dual core! Using the Arduino Wire library we have a main board that runs the majority of the code (Moisture Sensor, Sonar, Movement, etc) and the second board is only running the Face code. Board 1 makes note of the current state of the robot (HAPPY, SAD, BORED, etc) and sends this to Board 2 in the form of a single digit int. 
 
@@ -161,6 +177,6 @@ Our solution? Two Arduinos! That's right, this baby is a dual core! Also, behold
     delay(500);
   }
   ```
-  _Code segment from the main file, transmits state to Board 2._
+  _Code excerpt. from the main file, transmits state to Board 2. Author me._
   
   
