@@ -159,10 +159,13 @@ _Face concepts by Isabella Nesci_
 
 So, let's start with some cool stuff. Group member Emily James has done great work turning a 4 digit 7 segment LCD display into an adorable little face (see concept art above.) But we ran into a really interesting and unexpected issue with the LCD display. See, it does not light up each digit at the same time. Rather, it lights each digit one at a time, very quickly so that the eye doesn't notice the delay. This was problematic as once this face code was added to the main Arduino loop that includes sonar and driving code, the runtime of that extra code was enough to slow down the LCD refresh rate and completely broke the effect. 
 
-![Image](https://media.discordapp.net/attachments/966494031918014494/979090328399282266/PXL_20220525_183158377.MP.jpg?width=1776&height=1332)
-_Our beautiful robot._
+![Image](https://media.discordapp.net/attachments/966494031918014494/975619529168277524/unknown.png)
+_Legend of pin numbers for 4 digit 7 segment LCD Display._
 
 Our solution? Two Arduinos! That's right, this baby is a dual core! Also, behold our amazing and makeshift shell for the device. After our 3D casing failed we resorted to a wooden box with cutouts for wires and the sonar module. It works, but unfortunately not pretty, but a prototype is a prototype. Anyway, dual core! Using the Arduino Wire library we have a main board that runs the majority of the code (Moisture Sensor, Sonar, Movement, etc) and the second board is only running the Face code. Board 1 makes note of the current state of the robot (HAPPY, SAD, BORED, etc) and sends this to Board 2 in the form of a single digit int. 
+
+![Image](https://media.discordapp.net/attachments/966494031918014494/979090328399282266/PXL_20220525_183158377.MP.jpg?width=1776&height=1332)
+_Our beautiful robot._
 
 ```
 // CORE FUNCTION
@@ -179,4 +182,6 @@ Our solution? Two Arduinos! That's right, this baby is a dual core! Also, behold
   ```
   _Code excerpt. from the main file, transmits state to Board 2. Author me._
   
+  So yeah. One interesting and difficult problem solved by a fun and sorta rediculous solution. I love it! There is currently another issue that we're having and that is that the motors we have for the wheels seem to be broken. They're rather old ones that have had use before, and they seem to not handle charge properly. A set of replacement batteries were procured by group member Jonathon Hanlon but these likewise seemed to not work. As the presentation is tomorrow, this is a concern. Group member Emily is going to try and pick some up tomorrow morning before class, but it's likely going to be a late night.
   
+  # Week 14 - Reflections
