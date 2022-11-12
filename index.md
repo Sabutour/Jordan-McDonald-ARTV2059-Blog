@@ -1,5 +1,5 @@
 ## Coding and Craziness
-Welcome to the blog! This blog details my haphazard and disjointed journey through DESN2010, and my insights into the projects I'm workong on for the class. Enjoy the read.
+Welcome to the blog! This blog details my haphazard and disjointed journey through ARTV2059, and my insights into the projects I'm workong on for the class. Enjoy the read.
 
 # Week 1 - Getting Started
 
