@@ -3,6 +3,8 @@ Welcome to the blog! This blog details my haphazard and disjointed journey throu
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
+![Image](https://i.imgur.com/6BijcZv.png)
+
 
 # Small Beginnings
 
@@ -12,6 +14,6 @@ The first semester of this course was devoted to Augmented Reality (AR), the pro
 
 Our first task in this semester was to work with Vuforia, a software that allows images to be uploaded, analysed, and recognised. When paired with the Unity Game Engine as an addon package, you can quite simply make a program that recognises an uploaded image and does basically _anything_ with it. Neat! For our simple task, I kept it simple and made a quick little program that would recognise a specific trading card, and make the card's artwork appear as an overlay floating on top of the card. As if it were popping out of the card itself.
 
-![Image]([https://i.imgur.com/QJfKK2N.png)
+![Image](https://i.imgur.com/QJfKK2N.png)
 
 I had some conceptual ideas for making the card art float on top vertically and rotate, or to even grab a 3D model that would stand on the card, but all of these ideas seemed like too much for what is supposed to be a quick and easy demonstration of the software to build our understanding.
