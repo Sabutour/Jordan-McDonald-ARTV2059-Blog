@@ -162,6 +162,14 @@ I've been hard at work getting a solar system together. Right now, it's to scale
 
 ![Image](https://i.imgur.com/qEMRmYU.png)
 
+Thanks to [this](https://vionixstudio.com/2022/02/21/how-to-create-a-glow-effect-in-unity/) tutorial and [this](https://www.youtube.com/watch?v=bkPe1hxOmbI) tutorial, I was able to get the sun to glow as intended, which I think really helps elevate the scene.
+
+Just a quick update today.
+
+# Exploded View - Project Stellar - Part 3
+
+
+
 # Artist's Work - Access Mars
 
 One of the most humanitarian concepts for virtual reality, to me, is to allow people to experience and see wondrous places they might not have been able to visit otherwise. To take someone to all the wonders of the world in the same day. Virtual reality is more adept for this task specifically because it allows a true sense of scale to be conveyed. Seeing a picture of the Eiffel Tower does not convey it's height like standing next to it in a virtual reality space. This is a phenomenon I have experienced myself.
