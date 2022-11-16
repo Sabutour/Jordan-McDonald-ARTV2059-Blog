@@ -118,7 +118,15 @@ So, relevance. For next project, I wanted to explore space in some way. A place 
 
 # Exploded View
 
+# Artist's Work - _Inside_ by Bo Burnhan
 
+The pandemic was a difficult time for many. Being locked away in isolation, unable to safely interact with friends, family, and the world at large was a huge shift for many. Not to even mention those who lost their lives or loved ones to the pandemic. To say that it was the defining event for many lives is undeniable. Naturally, this event had an effect on art and creative expression.
+
+Notable comedian, musician and [director](https://en.wikipedia.org/wiki/Eighth_Grade_(film) [Bo Burnham](https://en.wikipedia.org/wiki/Bo_Burnham) made waves in 2021 when he released his Netflix "comedy" special [Inside](https://www.theguardian.com/stage/2021/may/31/bo-burnham-inside-review-netflix), a look into the psyche of someone locked away forced to create content. Known for his live comedy specials, and then for taking a hiatus to focus on his mental health, having to move to this medium was a a bittersweet form of return to comedy.
+
+And it was profound, introspective, and raw. The entire special was full of emotion, insight, and existential dread. The show is a masterpiece, although I would link it closer to performance art than pure comedy. 
+
+Of all the many brilliant songs contained within, [That Funny Feeling](https://www.youtube.com/watch?v=ObOqq1knVxs) was the one that tuck with me the most. 
 
 # Exploded View 2
 
