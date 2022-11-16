@@ -274,7 +274,41 @@ Of all the many brilliant songs contained within such as [Welcome to the Interne
 
 It's a song that has helped me conceptualise my Virtual Reality Project, but more on that in another post.
 
-# Project Tether 1
+# VR Time Capsule - Project Tether - Part 1
 
-# Project Tether 2
+Welcome to the culmination of _weeks_ of Immersive Media work. Welcome to the concoction of a tired mind. Welcome, to **Project Tether**.
 
+The idea? Simple.
+
+The brief? Engaging.
+
+The music? Vibing.
+
+The creator? Sleepy.
+
+Okay, in all seriousness, this is a time capsule project. Two parts, capturing a location with a [360 degree camera](https://www.insta360.com/product/insta360-onex2) as a sort of time capsule of that space, and then a VR alternate reality of sorts. My idea is to capture my bedroom (very imaginative, I know), but it's required for the parallel world.
+
+The parallel world is a dream state. Not quite real, not quite possible, but it is the same location. Or rather, it's the same location _in spirit._ A bedroom is a haven from the world (or it could be in inescapable prison thanks to a global pandemic, but lets stick with haven for now) where someone can be themself, express themself through their gathered knickknacks and decorations. Just be.
+
+But I also want this project to be a culmination of what I've been working on so far. So the parallel world?
+
+Space.
+
+Now, before this sounds like laziness, there is valid reason. One cannot simply exist in space without violent death. Dreams don't follow rules, you can be there in a dream. And I call it Project Tether because of the props. Parts of my bedroom, the bed, monitors, shelves, etc, will be floating around the player as they reside in a quiet, lonely haven in space. Away from the world, away from everything. Insulated. Cozy. Safe.
+
+More to come.
+
+# VR Time Capsule - Project Tether - Part 2
+
+I've been modelling parts of my room. Using [AutoDesk Fusion360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription), I found the specifications of my bed, monitors, and shelving unit and recreated them to use as models!
+
+![Image](https://i.imgur.com/Lp0rBKX.png)
+_The pillow, mattress and bedframe are all separate items._
+
+![Image](https://i.imgur.com/bMDsTR6.png)
+_Computer monitor. One of three, but will be using identical models__
+
+![Image](https://i.imgur.com/41hNUYL.png)
+_Items not included. I'm not modelling everything I own._
+
+I've put them into Unity and got them scaled correctly. 
