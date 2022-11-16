@@ -183,10 +183,8 @@ Why the weird number? Because that's what the math works out to to make the Sun 
 As for GlobalVariables, that's a seprarate script I used to keep track of a bunch of things. Here.
 
 ```
-
 public class GlobalVariables : MonoBehaviour
 {
-
     // 1 Day = 1 Minute = 2.5f
     // Real Time = 3600f
 
@@ -197,15 +195,30 @@ public class GlobalVariables : MonoBehaviour
     public void Start () {
         globalTimeScale = defaultTimeScale / speed;
     }
-    
     public void changeSpeed(float newSpeed) 
 {
     Debug.Log("Updating Speed to " + newSpeed);
     speed = newSpeed;
-    
 }
-
 ```
+
+Lots of numbers and stuff.
+
+My solution I came up with for making the other planets spin was not very efficient. I have gave one a unique script that would make it rotate on the spot at the correct rate. I didn't want to go searching for specific GameObjects.
+
+Also, with the GlobalVariables script, I can speed up and slow down the rate of spin.
+
+I also got the planets to orbit the Sun by placing an invisible sphere inside of the centre of the sun and attaching the planet to it as a child. By spinning the sphere in the middle of the sun at the rate it would take the planet to orbit the sun, the planet follows the spinning sphere. Genius.
+
+![Image](https://i.imgur.com/4UAUhlm.png)
+_See the little green sphere in the sun? That's attatched to Jupiter_
+
+I've currently got all the planets spinning as they should be. Even added a little friend!
+
+![Image](https://i.imgur.com/Rpr5QA5.png)
+_Earth and it's little buddy_
+
+My next steps are to get this built onto my phone and run it for real. I'm coding on a MacBook and I have an iPhone so I'll be using XCode to get it over.
 
 # Artist's Work - Access Mars
 
