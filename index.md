@@ -1,4 +1,4 @@
-## Coding and Craziness
+# Coding and Craziness
 Welcome to the [blog](https://sabutour.github.io/Jordan-McDonald-ARTV2059-Blog/)! This blog details my haphazard and disjointed journey through ARTV2059, and my insights into the projects I'm workong on for the class. Enjoy the read.
 
 # Small Beginnings
@@ -104,11 +104,19 @@ For Hades and Persephone, I took a different route. There's a lovely jazzy music
 
 I'm very proud of Project Tales, or as it now could be told, Reinterpeting Myths Through a Digital Lens. 
 
-# Artist's Work -
+# Artist's Work - Kurzgesagt - In a Nutshell
+
+The Apollo program was the NASA space program that first put a human on the Moon. The Artmeis program seeks to do the same in the modern era. So, it makes total sense in my mind to go from Greek gods to _[space](https://www.youtube.com/watch?v=g1Sq1Nr58hM)_. Space is just awesome, unknowable, and amazing. There is so much about it that is fascinating and utterly incomprehensible. 
+
+One group out there that makes incredibly accessible and utterly beautiful videos exploring space (as well as _many_ other topics of interest) is the design group and YouTube channel [Kurzgesagt](https://www.youtube.com/@kurzgesagt). They make very pretty and well-informed videos that teach their viewers about all sorts of stuff. Their [playlist](https://www.youtube.com/playlist?list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF) on "The Universe and Space Stuff" is a constant source of inspiration and wonder to me. I cannot recommend their work (or their merch) highly enough and recommend anyone with a passing interest in space, ants, dinosaurs, sociology, or anyone who needs an [existential crisis](https://www.youtube.com/playlist?list=PLFs4vir_WsTxontcYm5ctqp89cNBJKNrs) to take a look. Or to binge their entire back catalog. 
+
+So, relevance. For next project, I wanted to explore space in some way. A place we can't really go right now, but that everyone should experience. According to the [overview effect](https://www.businessinsider.com/overview-effect-nasa-apollo8-perspective-awareness-space-2015-8), seeing Earth from space can reshift a person's entire perspective closer towards humanism and kindness. We could use that.
 
 # Research
 
 # Exploded View
+
+
 
 # Exploded View 2
 
