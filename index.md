@@ -254,7 +254,9 @@ Try the Access Mars project [here](https://accessmars.withgoogle.com/).
 
 No Man's Sky is a game with impossible scope. [18 quintillion](https://gamerant.com/no-mans-sky-how-many-planets-explained/) procedurally generated planets to explore at your leisure, filled with flora and fauna. The scale of this game is impossible to comprehend. Depsite some [controversy](https://www.theguardian.com/games/2018/jul/20/no-mans-sky-next-hello-games-sean-murray-harassment-interview) early in it's life, it has since been [turned around](https://www.tweaktown.com/news/81055/no-mans-sky-one-of-gamings-best-comeback-stories-turns-five-today/index.html) to become a fan favourite.
 
-I bring it up because it is VR compatible. That changes the game. Literally.
+I bring it up because it is [VR compatible](https://www.polygon.com/2019/8/15/20806094/no-mans-sky-beyond-pc-vr-impressions-rift-s-index-psvr). That changes the game. Literally.
+
+![Image](https://cdn.vox-cdn.com/thumbor/afRWFBNWncU_ZlZV0kt34zj2Big=/0x0:1040x585/920x613/filters:focal(427x251:593x417):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65024255/beyond_exocraft_1.0.jpg)
 
 Seeing a universe on a monitor is one thing. Being _inside_ it. Walking around the planets you land on. Flying through space in the cockpit of a spaceship and hearing the engines roar as you fly into a station. It's unbelievably immersive. Immersion is a pretty big [focus](https://dl.acm.org/doi/pdf/10.1145/258734.258744) for Virtual Reality, and this experience, quite literally, sent me to another world.
 
