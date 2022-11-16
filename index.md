@@ -118,16 +118,6 @@ So, relevance. For next project, I wanted to explore space in some way. A place 
 
 # Exploded View
 
-# Artist's Work - _Inside_ by Bo Burnhan
-
-The pandemic was a difficult time for many. Being locked away in isolation, unable to safely interact with friends, family, and the world at large was a huge shift for many. Not to even mention those who lost their lives or loved ones to the pandemic. To say that it was the defining event for many lives is undeniable. Naturally, this event had an effect on art and creative expression.
-
-Notable comedian, musician and [director](https://en.wikipedia.org/wiki/Eighth_Grade_(film) [Bo Burnham](https://en.wikipedia.org/wiki/Bo_Burnham) made waves in 2021 when he released his Netflix "comedy" special [Inside](https://www.theguardian.com/stage/2021/may/31/bo-burnham-inside-review-netflix), a look into the psyche of someone locked away forced to create content. Known for his live comedy specials, and then for taking a hiatus to focus on his mental health, having to move to this medium was a a bittersweet form of return to comedy.
-
-And it was profound, introspective, and raw. The entire special was full of emotion, insight, and existential dread. The show is a masterpiece, although I would link it closer to performance art than pure comedy. 
-
-Of all the many brilliant songs contained within, [That Funny Feeling](https://www.youtube.com/watch?v=ObOqq1knVxs) was the one that tuck with me the most. 
-
 # Exploded View 2
 
 # Artist's Work - Access Mars
@@ -139,6 +129,20 @@ And perhaps there is not place more wondrous and hardest to visit then other pla
 Try the Access Mars project [here](https://accessmars.withgoogle.com/).
 
 # Cool VR Games (No Man's Sky)
+
+# Artist's Work - _Inside_ by Bo Burnham
+
+![Image](https://images.mubicdn.net/images/film/307199/cache-682781-1622612528/image-w1280.jpg)
+
+The pandemic was a difficult time for many. Being locked away in isolation, unable to safely interact with friends, family, and the world at large was a huge shift for many. Not to even mention those who lost their lives or loved ones to the pandemic. To say that it was the defining event for many lives is undeniable. Naturally, this event had an effect on art and creative expression.
+
+Notable comedian, musician and [director](https://en.wikipedia.org/wiki/Eighth_Grade_(film) [Bo Burnham](https://en.wikipedia.org/wiki/Bo_Burnham) made waves in 2021 when he released his Netflix "comedy" special [Inside](https://www.theguardian.com/stage/2021/may/31/bo-burnham-inside-review-netflix), a look into the psyche of someone locked away forced to create content. Known for his live comedy specials, and then for taking a hiatus to focus on his mental health, having to move to this medium was a a bittersweet form of return to comedy.
+
+And it was profound, introspective, and raw. The entire special was full of emotion, insight, and existential dread. The show is a masterpiece, although I would link it closer to performance art than pure comedy. 
+
+Of all the many brilliant songs contained within such as [Welcome to the Internet](https://www.youtube.com/watch?v=k1BneeJTDcU), [All Eyes On Me](https://www.youtube.com/watch?v=1Rx_p3NW7gQ), [That Funny Feeling](https://www.youtube.com/watch?v=ObOqq1knVxs) was the one that stuck with me the most. It best encapuslaed the sort of existential anxiety that permeated that time for many, myself included at times. It had a sense of nostalgia, mourning, powerlessness and, I don't know, it just hit hard. It's a song I listen to often, almost as if to help me experience feelings I didn't know I had buried.
+
+It's a song that has helped me conceptualise my Virtual Reality Project, but more on that in another post.
 
 # Project Tether 1
 
