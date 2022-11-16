@@ -184,6 +184,27 @@ As for GlobalVariables, that's a seprarate script I used to keep track of a bunc
 
 ```
 
+public class GlobalVariables : MonoBehaviour
+{
+
+    // 1 Day = 1 Minute = 2.5f
+    // Real Time = 3600f
+
+        public float speed = 1f;
+        public float defaultTimeScale = 3600f;
+        public static float globalTimeScale;
+
+    public void Start () {
+        globalTimeScale = defaultTimeScale / speed;
+    }
+    
+    public void changeSpeed(float newSpeed) 
+{
+    Debug.Log("Updating Speed to " + newSpeed);
+    speed = newSpeed;
+    
+}
+
 ```
 
 # Artist's Work - Access Mars
