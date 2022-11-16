@@ -47,3 +47,35 @@ I'm not going to just copy the text in these articles and links, but in general,
 
 ![Image](https://m.media-amazon.com/images/I/91SIlyyZSoL.jpg)
 I'm not _quite_ sure if this counts as acceptable as a reference, but it did inform and inspire my projects. Stephen Fry is a well-known public figure. Author, actor, general intellectual. I have a great deal of respect for Fry, and his way to tell stories in an engaging and imaginative way. Recently, I've been reading his trilogy of books that retell the stories of Greek Mythology as _stories_ rather than just as historical texts and essays. Whilst he has several citations that go into further detail, and provide an analytic lens over his writing, the stories themselves are conversational, informal, as if being told like a bedtime story. And they are incredibly engaging in this format. Greek Mythology has always been of interest to me, and this framework has allowed me to re-explore this interest and make it something I wish to use in my Creative Image Target work. Combined with the research into museum AR work, I am beginning work on what I am calling Project Tales. (I like giving my work little project names). 
+
+# Project Tales - Part 1
+
+Welcome to Project Tales, my foray into more involved image target projects. My concept is as follows, re-examining and re-exploring Greek Mythological tales and presenting them in a new light. How could these tales be reconsidered when viewed through a fresh lens?
+
+This project begins with Midjourney. Consider the story of Hades and Persephone, Greek Mythology's somehow most stable relationship despite it beginning with kidnapping. These characters have had numerous visual interpretations and written retellings such that there is no one definitive depiction of them. So, I was curious what an AI like Midjourney would create if given an open-ended prompt about them. To take the result out of my hands and place it into something who's understanding of the subject material is an unknown quanitity. What would it create?
+
+I plugged a few different stories into the AI. Hades and Persephone's love story, Prometheus' theft of divine fire and Icarus' tragic flight and fall. I figured these stories would be diverse enough to create interesting visual results, but also well-known enough tales. 
+
+So what did we end up with? Let's start with Hades and Persphone. 
+
+![Image](https://i.imgur.com/dW1Hbbd.png)
+
+This image is striking and I adore how it came out. The prompt used was simply _hades and persephone, fantasy_ and this image has an ethereal quality to it. The two figures are simultaneously people and not people, seemingly made out of the environment around them. Hades is in shadow compared to Persephone, his face a silhouette and his mouth seemingly in a kissing expression. Persephone is brigher, her face looks like a rose, flower of love and a nod to her being a goddess of Spring (daughter of Demeter, goddess of the harvest and of agriculture). Around them both are branches and vines. Above the blue and green of a lit canopy. Below is fire and flame, clinging to them as if to drag them both down into the underworld. There is a lot here to explore from an artistic standpoint. It's a piece that could be on display in a museum by itself. 
+
+What about the Theft of Fire?
+
+![Image](https://i.imgur.com/xsOj02u.png)
+
+This one is a little more abstract. But there's still a lot here to sink out teeth into. For context, Prometheus stole divine fire from Mount Olympus and gave it to humanity so that they could thrive. This was expressly forbidden by Zeus. Prometheus was punished by beinng chained to a rock and for a bird to come and eat his liver while he was conscious. The liver would grow back and the punishment would repeat for eternity. Brutal.
+
+Here the form of someone suffering can be clearly seen. The blue fire, distinguishing it from regular fire, surrounds his, tying it to the story and perhaps as part of his prison. His face seems to be either shrouded by it or represented by it. His form is writhing and contorted. Overall, not a pleasant scene. But a striking one.
+
+Finally, poor Icarus.
+
+![Image](https://i.imgur.com/17vHNFG.png)
+
+A beautiful sky belies a tragic fate. The flaming wings disintergrating around Icarus as he falls to his death, like feathers from a dying bird. What appears to be his arm reaching up trying to grasp for something to save him. The serene sky around him, ignorant or callous of his self-inflicted fate. The Greek's loved their cautionary tales around pride, ignorance and not listening to advice.
+
+Anyway, this is part one of this project. I have these images, artworks made by an AI intepreting ancient tales through a new lens. An example of history being observed by an outsider. Next up, how to augment them as image targets in augmented reality.
+
+# Project Tales - Part 2
