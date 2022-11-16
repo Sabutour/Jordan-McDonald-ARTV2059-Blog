@@ -112,9 +112,7 @@ I'm very proud of Project Tales, or as it now could be told, Reinterpeting Myths
 
 # Exploded View 2
 
-# Artist's Work
-
-# Access Mars
+# Artist's Work - Access Mars
 
 One of the most humanitarian concepts for virtual reality, to me, is to allow people to experience and see wondrous places they might not have been able to visit otherwise. To take someone to all the wonders of the world in the same day. Virtual reality is more adept for this task specifically because it allows a true sense of scale to be conveyed. Seeing a picture of the Eiffel Tower does not convey it's height like standing next to it in a virtual reality space. This is a phenomenon I have experienced myself.
 
