@@ -150,8 +150,6 @@ So, that's quite a jump from Project Tales, but it'll be a good time and there's
 
 For the planets spinning, I do want their day/night cycles to be correct. So to get the times right, I'll be using [this](https://spaceplace.nasa.gov/days/en/#:~:text=Earth%20takes%2024%20hours%20to,and%20Neptune%20takes%2016%20hours) reference alongside eithers to devise a system.
 
-# Research
-
 # Exploded View - Project Stellar - Part 2
 
 Time for some Unity stuff!
@@ -219,6 +217,24 @@ I've currently got all the planets spinning as they should be. Even added a litt
 _Earth and it's little buddy_
 
 My next steps are to get this built onto my phone and run it for real. I'm coding on a MacBook and I have an iPhone so I'll be using XCode to get it over.
+
+# Exploded View - Project Stellar - Part 4
+
+BEHOLD! 
+
+![Image](https://i.imgur.com/IW6cdhQ.png)
+
+The power of the sun in the palm of my hand!
+
+It works on my phone. I had some small issues with XCode, mostly waiting for many gigabytes of updates to complete. 
+
+I decided to make it a [spawnable object](https://learn.unity.com/tutorial/placing-and-manipulating-objects-in-ar#605103a5edbc2a6c32bf5661) that appears on a surface when the surface is tapped on. I also added a little script to the Sun that disables the Spawn Manager and the plane renderer once the it is placed so that you can't spawn in multiple solar systems. I had a small problem with the prefab disappearing when the camera isn't close enough but that turned out to be an [easy fix](https://answers.unity.com/questions/157604/objects-disappear-when-too-far-away.html).
+
+# Exploded View - Project Stellar - Part 5
+
+The final update for this project. I've been working on making a quick UI to allow the user to adjust the solar system once it is spawned in. The size of it, the speed at which the planets spin and orbit, from real time to _very_ fast. I also added a slider to adjust the height of the solar system as it for accessibilty. As it gets larger it might clip with a floor so raising it was a neat solution. 
+
+![Image](https://i.imgur.com/JyYq8Wk.png)
 
 # Artist's Work - Access Mars
 
