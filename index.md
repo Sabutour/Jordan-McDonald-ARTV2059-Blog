@@ -236,6 +236,10 @@ The final update for this project. I've been working on making a quick UI to all
 
 ![Image](https://i.imgur.com/JyYq8Wk.png)
 
+I also made some adjustments based on class feedback. To better fit the Exploded View theme, I have changed it from a psudeo-accurate representation of the Solar System to a Galactic Atom. With the sun at the centre, like the nucleus of an atom, the planets now orbit it much like electrons. I liked the idea of using something so large to represent something so tiny, or something so tiny to show something so large. Gravitational orbit sort of works at all scales and so seeing how the universe is almost the same at different scales I thought was neat. 
+
+Anyway, that's enough of AR. Time for VR.
+
 # Artist's Work - Access Mars
 
 One of the most humanitarian concepts for virtual reality, to me, is to allow people to experience and see wondrous places they might not have been able to visit otherwise. To take someone to all the wonders of the world in the same day. Virtual reality is more adept for this task specifically because it allows a true sense of scale to be conveyed. Seeing a picture of the Eiffel Tower does not convey it's height like standing next to it in a virtual reality space. This is a phenomenon I have experienced myself.
@@ -244,7 +248,15 @@ And perhaps there is not place more wondrous and hardest to visit then other pla
 
 Try the Access Mars project [here](https://accessmars.withgoogle.com/).
 
-# Cool VR Games (No Man's Sky)
+# Artist's Work - No Man's Sky
+
+![Image](https://res.cloudinary.com/nintendo-europe-noe-sherpa/image/upload/c_scale,f_auto,h_1080,q_auto,w_1920/v1/NAL/Software%20Nintendo%20Switch/No%20Man's%20Sky/No_Mans_Sky_Hero)
+
+No Man's Sky is a game with impossible scope. [18 quintillion](https://gamerant.com/no-mans-sky-how-many-planets-explained/) procedurally generated planets to explore at your leisure, filled with flora and fauna. The scale of this game is impossible to comprehend. Depsite some [controversy](https://www.theguardian.com/games/2018/jul/20/no-mans-sky-next-hello-games-sean-murray-harassment-interview) early in it's life, it has since been [turned around](https://www.tweaktown.com/news/81055/no-mans-sky-one-of-gamings-best-comeback-stories-turns-five-today/index.html) to become a fan favourite.
+
+I bring it up because it is VR compatible. That changes the game. Literally.
+
+Seeing a universe on a monitor is one thing. Being _inside_ it. Walking around the planets you land on. Flying through space in the cockpit of a spaceship and hearing the engines roar as you fly into a station. It's unbelievably immersive. Immersion is a pretty big [focus](https://dl.acm.org/doi/pdf/10.1145/258734.258744) for Virtual Reality, and this experience, quite literally, sent me to another world.
 
 # Artist's Work - _Inside_ by Bo Burnham
 
