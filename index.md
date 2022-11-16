@@ -344,7 +344,11 @@ This works on a few levels. The first is that the dream is literally swallowed u
 I wanted a way to trigger the wake up sequence. I thought about making it on a timer, but this had the chance of someone missing it or not being ready to go. So instead I created a podium with a button using [this](https://www.youtube.com/watch?v=lPPa9y_czlE) tutorial that, when pressed, triggers the end of the dream. You have to decide when you're ready to leave it behind, but you can't go back. There's no way to re-enter the VR world from the 360 degree video. I wanted to emphasise the temporary and fragile nature of dreams. Being able to re-join whenever seemed contrary to this.
 
 ![Image](https://i.imgur.com/4Ly4LJT.png)
+_Press the big red button. Destroy everything._
 
 Additionally, on the podium is the sign "Wake Up". I wrote this to be clear to the player what it would do, and so they wouldn't press it immediately and leave the scene too early. But again, to emphasise the strangeness of the dream, I included a custom script I designed in another class. Seemed a fun use for it.
+
+![Image](https://i.imgur.com/F3QDHsW.png)
+_Geotype._
 
 When the sun explodes, the song [_End Times_](https://www.youtube.com/watch?v=t5vG4Be1Ci8) by Andrew Prahlow from the _Outer Wilds_ soundtrack plays, right up until the moment the sun engulfs the player. This was both reference and seemed deeply fitting. The song is slow, gradually building to a point. It was composed for this purpose.
