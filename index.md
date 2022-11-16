@@ -129,7 +129,28 @@ As it says in the Wattle:
 
 _Think of all the components that make up the subject matter you choose to work with. You can take various approaches and think technically or creatively about this concept. It doesn’t need to be a conventional diagram, for example, perhaps it is a product and you can represent the supply chain that went into making it? Or is it a space that has memories and stories embedded in it?_
 
-So, creative interpretation. My concept for this is the following: A representation of the Solar System, with the ability to be scaled from small enough to have it in my hand, or big enough to walk around the planets in their enormity. To see the Solar System exploded up to giant scale. 
+So, creative interpretation. My concept for this is the following: A representation of the Solar System, with the ability to be scaled from small enough to have it in my hand, or big enough to walk around the planets in their enormity. To see the Solar System exploded up to giant scale. To achieve this, I'll need a MVP (Minimum Viable Product). So, let's break this down to core goals and stretch goals. 
+
+### Core Goals
+
+- All of the planets in the Solar System, plus the Sun, correctly scaled to one another.
+- The planets spinning on the spot.
+- The Sun as a souce of light glowing in the centre.
+
+### Stretch Goals
+
+- The planets to spin on the spot for the correct length of time (involves relative time scaling).
+- Planets actually orbitting the sun.
+- Moons orbiting planets (at least Earth's Moon).
+- Audio for the planets when close.
+- Ability to change speed.
+- Ability to change size of planets.
+
+So, that's quite a jump from Project Tales, but it'll be a good time and there's more time alloted for this project. To start, let's focus on the planets themselves. To make them will be easy, they're spheres. Or close enough to sphere's for this project. I don't have the skills to texture them but thankfully [Solar System Scope](https://www.solarsystemscope.com/textures/) has textures of all the planets, plus the sun, freely avaiable. Amazing. 
+
+For the planets spinning, I do want their day/night cycles to be correct. So to get the times right, I'll be using [this](https://spaceplace.nasa.gov/days/en/#:~:text=Earth%20takes%2024%20hours%20to,and%20Neptune%20takes%2016%20hours) reference alongside eithers to devise a system.
+
+
 
 # Research
 
