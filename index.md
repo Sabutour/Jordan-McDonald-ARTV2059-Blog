@@ -95,3 +95,12 @@ My original plan was to have the text in large boxes around the artwork, so as t
 I had some technical challenges doing this. The project's scope was simple and within my skillset, but I had a couple of things I hadn't done before. I used [this](https://www.youtube.com/watch?v=A33HoKdOhTQ) tutorial to add custom fonts that were usable as 3D text, which worked like a charm.
 
 Besides that, I had a very odd bug in which the text on top of the transparent planes would appear faded and dim. This seemed to be a rendering bug which would draw the text behind the panel even though it was above it. [This](https://answers.unity.com/questions/609021/how-to-fix-transparent-rendering-problem.html) user guide helped me fix the problem my manually adjusting the rendering order. Never would have figured that out on my own.
+
+![Image](https://i.imgur.com/PCMM57u.png)
+
+As for the audio, I went two different routes. For the **Theft of Fire** and **The Flight of Icarus**, I used diagetic, environmental sounds. The sound of blistering winds from high above, and the sound of crackling fire. Both of these sounds came from [Freesound](https://freesound.org/).
+
+For Hades and Persephone, I took a different route. There's a lovely jazzy musical called [Hadestown](https://www.hadestown.com/) that tells the story of Orpheus and Euridice's love story. It also features a song in the musical called _Epic III ("They danced...)_ which tells of Hades of Persephone's love. I thought it was a fitting instrumental piece for this. It was full of emotion and significance, which is what I wanted to convey. I took this instrumental piece and used it to layer over the artwork.
+
+I'm very proud of Project Tales, or as it now could be told, Reinterpeting Myths Through a Digital Lens. 
+
