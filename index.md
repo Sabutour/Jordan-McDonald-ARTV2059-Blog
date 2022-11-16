@@ -288,7 +288,7 @@ The creator? Sleepy.
 
 Okay, in all seriousness, this is a time capsule project. Two parts, capturing a location with a [360 degree camera](https://www.insta360.com/product/insta360-onex2) as a sort of time capsule of that space, and then a VR alternate reality of sorts. My idea is to capture my bedroom (very imaginative, I know), but it's required for the parallel world.
 
-The parallel world is a dream state. Not quite real, not quite possible, but it is the same location. Or rather, it's the same location _in spirit._ A bedroom is a haven from the world (or it could be in inescapable prison thanks to a global pandemic, but lets stick with haven for now) where someone can be themself, express themself through their gathered knickknacks and decorations. Just be.
+The parallel world is a dream state. Not quite real, not quite possible, but it is the same location. Or rather, it's the same location _in spirit._ A bedroom is a haven from the world (or it could be an inescapable prison thanks to a global pandemic, but lets stick with haven for now) where someone can be themself, express themself through their gathered knickknacks and decorations. Just be.
 
 But I also want this project to be a culmination of what I've been working on so far. So the parallel world?
 
