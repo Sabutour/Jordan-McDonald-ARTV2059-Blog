@@ -352,3 +352,87 @@ Additionally, on the podium is the sign "Wake Up". I wrote this to be clear to t
 _Geotype._
 
 When the sun explodes, the song [_End Times_](https://www.youtube.com/watch?v=t5vG4Be1Ci8) by Andrew Prahlow from the _Outer Wilds_ soundtrack plays, right up until the moment the sun engulfs the player. This was both reference and seemed deeply fitting. The song is slow, gradually building to a point. It was composed for this purpose.
+
+Addtionally, wow, lots in this post, I wanted the sun to go through phases as it grew, signifying a large build up. I designed several materials for the sun that it would switch through until it shone a bright white that covered the screen, right as the player wakes up. It switches through them fairly naturally thanks to help from [this](https://answers.unity.com/questions/217709/fading-between-2-materials.html) and [this](https://docs.unity3d.com/ScriptReference/Material.Lerp.html).
+
+Here is the code I made that achieves this:
+
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SunExplode : MonoBehaviour
+{
+
+    public bool readyToExplode;
+    public float speed;
+    public float targetSize = 1000.0f;
+    public Vector3 scaler = new Vector3(300, 300, 300);
+    public Material sun1;
+    public Material sun2;
+    public Material sun3;
+    public Material sun4;
+    Renderer rend;
+    public float duration = 10.0f;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        readyToExplode = false;
+        scaler.x = 300;
+        scaler.y = 300;
+        scaler.z = 300;
+        rend = GetComponent<Renderer> ();
+    }
+ 
+void Update()
+{
+    transform.localScale = scaler;
+    if (readyToExplode) 
+    {
+        scaler.x = Mathf.Lerp(scaler.x, targetSize, Time.deltaTime / speed);
+        scaler.y = Mathf.Lerp(scaler.y, targetSize, Time.deltaTime / speed);
+        scaler.z = Mathf.Lerp(scaler.z, targetSize, Time.deltaTime / speed);
+    }
+
+    if (scaler.x > 400 && scaler.x < 600) {
+        float lerp = Mathf.PingPong(Time.time, duration) / duration;
+        rend.material.Lerp(sun1, sun2, lerp);
+    }
+
+    if (scaler.x > 600 && scaler.x < 800) {
+        float lerp = Mathf.PingPong(Time.time, duration) / duration;
+        rend.material.Lerp(sun2, sun3, lerp);
+    }
+
+    if (scaler.x > 800) {
+        float lerp = Mathf.PingPong(Time.time, duration) / duration;
+        rend.material.Lerp(sun3, sun4, lerp);
+    }
+}
+
+    public void Explode()
+    {
+        readyToExplode = true;
+    }
+}
+```
+
+![Image](https://i.imgur.com/LR18GgR.png)
+_Sun Phase 1_
+
+![Image](https://i.imgur.com/wtDofAR.png)
+_Sun Phase 2_
+
+![Image](https://i.imgur.com/Rjq0L2r.png)
+_Sun Phase 3_
+
+![Image](https://i.imgur.com/CTDFkVk.png)
+_Sun Phase 4._
+
+Additionally (finally?), thanks to some tester feedback, I added an Earth object closer to the sun that gets engulfed first as the sun expands. Partially this continues the theme of the dream_world_ being erased slowly. But it also helps show the sun approached by removing objects as it gets closer. The sun gets so large scale can be hard to tell at times.
+
+![Image](https://i.imgur.com/hKXKpv6.png)
+
+While the sun uses the same textures as in Project Stellar, the Earth here has night textures straight from [NASA](https://earthobservatory.nasa.gov/features/NightLights/page3.php). I also reused the planet spinning code from my last project, but tweaked it a little here and there.
