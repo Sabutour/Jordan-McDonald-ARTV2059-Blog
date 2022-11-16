@@ -1,11 +1,6 @@
 ## Coding and Craziness
 Welcome to the [blog](https://sabutour.github.io/Jordan-McDonald-ARTV2059-Blog/)! This blog details my haphazard and disjointed journey through ARTV2059, and my insights into the projects I'm workong on for the class. Enjoy the read.
 
-[IntelliJ IDEA](https://www.jetbrains.com/idea/)
-
-![Image](https://i.imgur.com/6BijcZv.png)
-
-
 # Small Beginnings
 
 I am very excited for this course. An ANU course focusing on Augmented Reality and Virtual Reality? It was geniunely a course I never thought would be available here and I'm thrilled to have gotten in. I'm slightly late on getting to the blog part of this course, but I've been keeping notes throughout the course to toss on here when I had the time to format everything nicely. So, without further ado, let's get started.
@@ -79,3 +74,24 @@ A beautiful sky belies a tragic fate. The flaming wings disintergrating around I
 Anyway, this is part one of this project. I have these images, artworks made by an AI intepreting ancient tales through a new lens. An example of history being observed by an outsider. Next up, how to augment them as image targets in augmented reality.
 
 # Project Tales - Part 2
+
+Let me tell you the tale (get it?) of this project's journey to completion. 
+
+After importing the Midjourney images into a 2D plane in Unity, it was a matter of _what_ to do with them. Inspired by my research into museums, I imagined these artworks on the wall in a gallery. What would I want to show? I had several concepts. These included:
+
+- Show related artworks.
+- Show QR codes linking to more information.
+- Excerpts from the story the artwork is related to.
+- Audio related to the story. 
+- Animated overlays to make the image move.
+- Etc.
+
+In the interests of time, scale, and my sanity, I did not do all of these. For this project, I opted to include excerpts of the stories (Taken from Stephen Fry's _Mythos_ and _Heroes_ books, bringing it all full circle) and audio related to these scenes. 
+
+![Image](https://i.imgur.com/TQNJBgc.png)
+
+My original plan was to have the text in large boxes around the artwork, so as to not cover it up. But this had a very flat feeling to it, and gave me too much room to too much excerpt. I wanted small snapshots, glimpses into the story, not the whole tale. To emphasize the three-dimensional nature of AR, I layered the excerpts on top of the image in small snippets. 
+
+I had some technical challenges doing this. The project's scope was simple and within my skillset, but I had a couple of things I hadn't done before. I used [this](https://www.youtube.com/watch?v=A33HoKdOhTQ) tutorial to add custom fonts that were usable as 3D text, which worked like a charm.
+
+Besides that, I had a very odd bug in which the text on top of the transparent planes would appear faded and dim. This seemed to be a rendering bug which would draw the text behind the panel even though it was above it. [This](https://answers.unity.com/questions/609021/how-to-fix-transparent-rendering-problem.html) user guide helped me fix the problem my manually adjusting the rendering order. Never would have figured that out on my own.
