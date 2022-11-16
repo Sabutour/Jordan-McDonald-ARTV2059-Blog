@@ -1,5 +1,5 @@
 ## Coding and Craziness
-Welcome to the blog! This blog details my haphazard and disjointed journey through ARTV2059, and my insights into the projects I'm workong on for the class. Enjoy the read.
+Welcome to the [blog](https://sabutour.github.io/Jordan-McDonald-ARTV2059-Blog/)! This blog details my haphazard and disjointed journey through ARTV2059, and my insights into the projects I'm workong on for the class. Enjoy the read.
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
@@ -17,3 +17,7 @@ Our first task in this semester was to work with Vuforia, a software that allows
 ![Image](https://i.imgur.com/QJfKK2N.png)
 
 I had some conceptual ideas for making the card art float on top vertically and rotate, or to even grab a 3D model that would stand on the card, but all of these ideas seemed like too much for what is supposed to be a quick and easy demonstration of the software to build our understanding.
+
+# Journey Through Midjourney
+
+AI is a bit of a buzzword these days, used more for marketing than anything approaching some sort of conscious, living intelligence. But that doesn't mean it hasn't paved the way for some pretty incredible new technologies recently. Perhaps the most _visually_ engaging of which is the releases of new image-generating AI such as [Midjourney](https://www.midjourney.com/). These programs are trained on huge sample sets of artwords (Is that ethical? Hard to [say](https://kotaku.com/ai-art-dall-e-midjourney-stable-diffusion-copyright-1849388060)
