@@ -104,3 +104,17 @@ For Hades and Persephone, I took a different route. There's a lovely jazzy music
 
 I'm very proud of Project Tales, or as it now could be told, Reinterpeting Myths Through a Digital Lens. 
 
+# Artist's Work -
+
+# Research
+
+# Exploded View
+
+# Exploded View 2
+
+# Artist's Work
+
+# Access Mars
+
+# Cool VR Games (No Man's Sky)
+
