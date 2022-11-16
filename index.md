@@ -312,3 +312,8 @@ _Computer monitor. One of three, but will be using identical models__
 _Items not included. I'm not modelling everything I own._
 
 I've put them into Unity and got them scaled correctly. 
+
+![Image](https://i.imgur.com/qONIWtH.png_
+_A shelf in space._
+
+I used this really cool freely available [tool](https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1&fov=80&nebulae=true&pointStars=true&resolution=1024&seed=2i5ixxa0fvs0&stars=true&sun=true) to generate a unique, six-sided space skybox for use with this project. Just starts, no sun, and plugged it into. Worked a treat.
