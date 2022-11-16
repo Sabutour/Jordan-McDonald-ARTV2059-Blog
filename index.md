@@ -294,7 +294,7 @@ But I also want this project to be a culmination of what I've been working on so
 
 Space.
 
-Now, before this sounds like laziness, there is valid reason. One cannot simply exist in space without violent death. Dreams don't follow rules, you can be there in a dream. And I call it Project Tether because of the props. Parts of my bedroom, the bed, monitors, shelves, etc, will be floating around the player as they reside in a quiet, lonely haven in space. Away from the world, away from everything. Insulated. Cozy. Safe.
+Now, before this sounds like laziness, there is valid reason. One cannot simply exist in space without violent death. Dreams don't follow rules, you can be there in a dream. And I call it Project Tether because of the props. Parts of my bedroom, the bed, monitors, shelves, etc., will be floating around the player as if tethered to their spot as they reside in a quiet, lonely haven in space. Away from the world, away from everything. Insulated. Cozy. Safe.
 
 Additionally, I plan on having music be an important part of this experience. Continuing on from my post on Bo Burnham's _Inside_ I plan on having the song _That Funny Feeling_ playing in both worlds, as if it's being heard from inside the dream and echoing inside. I feel the song, with it's quiet guitar strumming, and the campfire background sounds, will help to provide a cozy, fireside atmosphere mixed with existenstial dread that something is off or different about the dream world.
 
