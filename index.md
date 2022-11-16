@@ -313,7 +313,22 @@ _Items not included. I'm not modelling everything I own._
 
 I've put them into Unity and got them scaled correctly. 
 
-![Image](https://i.imgur.com/qONIWtH.png_
+![Image](https://i.imgur.com/qONIWtH.png)
 _A shelf in space._
 
 I used this really cool freely available [tool](https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1&fov=80&nebulae=true&pointStars=true&resolution=1024&seed=2i5ixxa0fvs0&stars=true&sun=true) to generate a unique, six-sided space skybox for use with this project. Just starts, no sun, and plugged it into. Worked a treat.
+
+# VR Time Capsule - Project Tether - Part 3
+
+![Image](https://i.imgur.com/RgtFCbv.png)
+
+I've got everything into the scene now. The box on the ground seen here in the editor shows the playspace. An invisible box surrounds the play to prevent them from walking off or falling eternally. The sensation of standing on nothing in space is odd, and exactly what I wanted. The objects I modelling, representing the remnants of my room in this dream state float and bob about as if there's zero gravity. I used and then heavily edited [this](http://www.donovankeith.com/tag/csharp/) open source script to get it working. It was very useful. Next up, general improvements and thinking of how the player should switch to the other scene.
+
+# Artist's Work - Outer Wilds
+![Image](https://www.psu.com/wp/wp-content/uploads/2020/10/Outer-Wilds-PS4-Wallpapers-02.jpeg)
+
+**Not** to be confused with [The Outer Worlds](https://en.wikipedia.org/wiki/The_Outer_Worlds), Outer Wilds is a deeply engrossing puzzle gamew in which the player has 22 minutes before the sun explodes and destroys the solar system, only to wake up and begin the loop again. Each loop will play out identically save for your actions, and will edge you closer to learning why the sun is xploding. It is narratively engaging, charmingly cute, and completely immersive. It's a masterpiece in every sense. 
+
+Additionally, I have to bring up the soundtrack. Composer [Andrew Prahlow](http://www.andrewprahlow.com/) set out to make a soundtrack that is an _"extension of the heart of the game"_. His music focuses on _"larger-than-life, emotive soundscapes with a core of chamber-ensemble minimalism, hoping to create a sense of nostalgia and familiarity for the listener."_
+
+This is perfect for my space scene. An enourmous scene, the sun itself as your lightsource. But a sense of coziness and familiarity. This game is inspiring. This music is inspiring. And it would be criminal to not pay homage to it. More on that later.
