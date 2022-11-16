@@ -30,3 +30,17 @@ _Prompt: A monolithic stone tower in a sea of visions, cthonic, dark rock, sea o
 
 ![Image](https://i.imgur.com/dOZCb9r.png)
 _Prompt: ice glacier, concept art_
+
+As someone without a shred of artisitc talent, this tech is incredibly intruging and exciting. I don't believe it is a replacement for traditional artwork, in the same way that giving everyone a smartphone camera doesn't mean that film-makers are no longer relevant (Take that Spielburg). But rather I see this as a new and emerging tool that will change the landscape in some way. I definitely wanted to use this tech in one of my projects in some way. 
+
+# Use of Augmented Reality in Museums
+
+I came across [this](https://jasoren.com/how-to-use-augmented-reality-in-museums-examples-and-use-cases/) article in my resarch as to applications of AR. One idea that inspired me, perhaps informed by my recent experiments using Midjourney, was how it could be used to augment or replace museum audio tours. I've used pre-recorded audio tours in museums in the past, and found them lacking. They were often finicky to use, the headphones were low quality, and in one case I was given a recording in the wrong language. Clearly with the versatility of modern smartphones, there is room for improvement and innovation in this space. Some museums have moved to use apps to provide information but others such as [The Cleveland Musuem of Art](https://www.clevelandart.org/) has taken it a step further with augmented reality. 
+
+Their exhibitions as part of their ARTLENS Gallery explore numerous ways to apply augmented reality and digital technology to create interactive experiences, a way to further connect with the works on display. This [video](https://youtu.be/XYRjaZl08lQ) shows off some of their really cool displays. 
+
+I'm not going to just copy the text in these articles and links, but in general, AR can be a way to provide further information and context to a display piece in a way that complements the display, or can be part of the exhibit itself, bringing the viewer in as an active participant in the work.
+
+# Artist's Work - _Mythos_ and _Heroes_ by Stephen Fry
+
+I'm not _quite_ sure if this counts as acceptable as a reference, but it did inform and inspire my projects. Stephen Fry is a well-known public figure. Author, actor, general intellectual. I have a great deal of respect for Fry, and his way to tell stories in an engaging and imaginative way. Recently, I've been reading his trilogy of books that retell the stories of Greek Mythology as _stories_ rather than just as historical texts and essays. Whilst he has several citations that go into further detail, and provide an analytic lens over his writing, the stories themselves are conversational, informal, as if being told like a bedtime story. And they are incredibly engaging in this format. Greek Mythology has always been of interest to me, and this framework has allowed me to re-explore this interest and make it something I wish to use in my Creative Image Target work. Combined with the research into museum AR work, I am beginning work on what I am calling Project Tales. (I like giving my work little project names). 
