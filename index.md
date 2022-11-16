@@ -116,7 +116,20 @@ So, relevance. For next project, I wanted to explore space in some way. A place 
 
 # Exploded View - Project Stellar - Part 1
 
+The scope for this project is only small. Nothing major. It's only
+
 ![Image](https://media.tenor.com/dn9TsELSZyUAAAAC/the-power-of-the-sun-in-the-palm-of-my-hand-doctor-octopus.gif)
+
+Okay so that sounds like a lot, but let's back track. For the Exploded View project, we have to create some sort of creatively interpreted exploded view of _something_.
+
+![Image](https://www.designingbuildings.co.uk/w/images/a/ae/Explodedview.jpg)
+_General exploded view CAD Drawing_
+
+As it says in the Wattle: 
+
+_Think of all the components that make up the subject matter you choose to work with. You can take various approaches and think technically or creatively about this concept. It doesn’t need to be a conventional diagram, for example, perhaps it is a product and you can represent the supply chain that went into making it? Or is it a space that has memories and stories embedded in it?_
+
+So, creative interpretation. My concept for this is the following: A representation of the Solar System, with the ability to be scaled from small enough to have it in my hand, or big enough to walk around the planets in their enormity. To see the Solar System exploded up to giant scale. 
 
 # Research
 
