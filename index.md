@@ -116,5 +116,11 @@ I'm very proud of Project Tales, or as it now could be told, Reinterpeting Myths
 
 # Access Mars
 
+One of the most humanitarian concepts for virtual reality, to me, is to allow people to experience and see wondrous places they might not have been able to visit otherwise. To take someone to all the wonders of the world in the same day. Virtual reality is more adept for this task specifically because it allows a true sense of scale to be conveyed. Seeing a picture of the Eiffel Tower does not convey it's height like standing next to it in a virtual reality space. This is a phenomenon I have experienced myself.
+
+And perhaps there is not place more wondrous and hardest to visit then other planets and stars. It is very unlikely that any of us alive will visit Mars. But that doesn't mean we can't get a taste. Google, in conujunction with the NASA Jet Propulsion Laboratory (JPL) have created a [web VR project](https://www.youtube.com/watch?v=CMLD0Lp0JBg) that takes images captured by the Curiousity Mars Rover and projects them into a 360 degree space. Along with little notes and tidbits about the rover and the project. I think this is a great way to bring space to the masses in a way that lets them experience it firsthand. in a small way.
+
+Try the Access Mars project [here](https://accessmars.withgoogle.com/).
+
 # Cool VR Games (No Man's Sky)
 
