@@ -162,13 +162,29 @@ I've been hard at work getting a solar system together. Right now, it's to scale
 
 ![Image](https://i.imgur.com/qEMRmYU.png)
 
-Thanks to [this](https://vionixstudio.com/2022/02/21/how-to-create-a-glow-effect-in-unity/) tutorial and [this](https://www.youtube.com/watch?v=bkPe1hxOmbI) tutorial, I was able to get the sun to glow as intended, which I think really helps elevate the scene.
+Thanks to [this](https://vionixstudio.com/2022/02/21/how-to-create-a-glow-effect-in-unity/) tutorial and [this](https://www.youtube.com/watch?v=bkPe1hxOmbI) tutorial and [this](https://www.youtube.com/watch?v=oa6kW5HhRd4) tutorial, I was able to get the sun to glow as intended, which I think really helps elevate the scene.
 
 Just a quick update today.
 
 # Exploded View - Project Stellar - Part 3
 
+This update will be about scripting mostly. It's probably (read: definitely) a mess but it's where I'm going.
 
+To make the planets spin, I thought about using keyframe animation but it seemed much easier to just use some small scripts.
+
+Here's a snippet of the code that makes the Sun spin.
+
+```
+transform.Rotate (0, -0.55555555555f*Time.delta) / GlobalVariables.globalTimeScale, 0); 
+```
+
+Why the weird number? Because that's what the math works out to to make the Sun rotate in scale. defaultTimeScale is, by default, 3600f which is the number of seconds in an hour. I did the initial calculation on hours per day.
+
+As for GlobalVariables, that's a seprarate script I used to keep track of a bunch of things. Here.
+
+```
+
+```
 
 # Artist's Work - Access Mars
 
