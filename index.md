@@ -1,7 +1,7 @@
 # Coding and Craziness
 Welcome to the [blog](https://sabutour.github.io/Jordan-McDonald-ARTV2059-Blog/)! This blog details my haphazard and disjointed journey through ARTV2059, and my insights into the projects I'm workong on for the class. Enjoy the read.
 
-# Small Beginnings
+# Basic Image Target - Small Beginnings
 
 I am very excited for this course. An ANU course focusing on Augmented Reality and Virtual Reality? It was geniunely a course I never thought would be available here and I'm thrilled to have gotten in. I'm slightly late on getting to the blog part of this course, but I've been keeping notes throughout the course to toss on here when I had the time to format everything nicely. So, without further ado, let's get started.
 
@@ -43,7 +43,7 @@ I'm not going to just copy the text in these articles and links, but in general,
 ![Image](https://m.media-amazon.com/images/I/91SIlyyZSoL.jpg)
 I'm not _quite_ sure if this counts as acceptable as a reference, but it did inform and inspire my projects. Stephen Fry is a well-known public figure. Author, actor, general intellectual. I have a great deal of respect for Fry, and his way to tell stories in an engaging and imaginative way. Recently, I've been reading his trilogy of books that retell the stories of Greek Mythology as _stories_ rather than just as historical texts and essays. Whilst he has several citations that go into further detail, and provide an analytic lens over his writing, the stories themselves are conversational, informal, as if being told like a bedtime story. And they are incredibly engaging in this format. Greek Mythology has always been of interest to me, and this framework has allowed me to re-explore this interest and make it something I wish to use in my Creative Image Target work. Combined with the research into museum AR work, I am beginning work on what I am calling Project Tales. (I like giving my work little project names). 
 
-# Project Tales - Part 1
+# Creative Image Target - Project Tales - Part 1
 
 Welcome to Project Tales, my foray into more involved image target projects. My concept is as follows, re-examining and re-exploring Greek Mythological tales and presenting them in a new light. How could these tales be reconsidered when viewed through a fresh lens?
 
@@ -73,7 +73,7 @@ A beautiful sky belies a tragic fate. The flaming wings disintergrating around I
 
 Anyway, this is part one of this project. I have these images, artworks made by an AI intepreting ancient tales through a new lens. An example of history being observed by an outsider. Next up, how to augment them as image targets in augmented reality.
 
-# Project Tales - Part 2
+# Creative Image Target - Project Tales - Part 2
 
 Let me tell you the tale (get it?) of this project's journey to completion. 
 
@@ -114,11 +114,13 @@ One group out there that makes incredibly accessible and utterly beautiful video
 
 So, relevance. For next project, I wanted to explore space in some way. A place we can't really go right now, but that everyone should experience. According to the [overview effect](https://www.businessinsider.com/overview-effect-nasa-apollo8-perspective-awareness-space-2015-8), seeing Earth from space can reshift a person's entire perspective closer towards humanism and kindness. We could use that.
 
+# Exploded View - Project Stellar - Part 1
+
+![Image](https://media.tenor.com/dn9TsELSZyUAAAAC/the-power-of-the-sun-in-the-palm-of-my-hand-doctor-octopus.gif)
+
 # Research
 
-# Exploded View
-
-# Exploded View 2
+# Exploded View - Project Stellar - Part 2
 
 # Artist's Work - Access Mars
 
