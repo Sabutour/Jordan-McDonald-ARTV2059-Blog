@@ -140,7 +140,7 @@ Notable comedian, musician and [director](https://en.wikipedia.org/wiki/Eighth_G
 
 And it was profound, introspective, and raw. The entire special was full of emotion, insight, and existential dread. The show is a masterpiece, although I would link it closer to performance art than pure comedy. 
 
-Of all the many brilliant songs contained within such as [Welcome to the Internet](https://www.youtube.com/watch?v=k1BneeJTDcU), [All Eyes On Me](https://www.youtube.com/watch?v=1Rx_p3NW7gQ), [That Funny Feeling](https://www.youtube.com/watch?v=ObOqq1knVxs) was the one that stuck with me the most. It best encapuslaed the sort of existential anxiety that permeated that time for many, myself included at times. It had a sense of nostalgia, mourning, powerlessness and, I don't know, it just hit hard. It's a song I listen to often, almost as if to help me experience feelings I didn't know I had buried.
+Of all the many brilliant songs contained within such as [Welcome to the Internet](https://www.youtube.com/watch?v=k1BneeJTDcU) and [All Eyes On Me](https://www.youtube.com/watch?v=1Rx_p3NW7gQ), it was [That Funny Feeling](https://www.youtube.com/watch?v=ObOqq1knVxs) that stuck with me the most. It best encapuslaed the sort of existential anxiety that permeated that time for many, myself included at times. It had a sense of nostalgia, mourning, powerlessness and, I don't know, it just hit hard. It's a song I listen to often, almost as if to help me experience feelings I didn't know I had buried.
 
 It's a song that has helped me conceptualise my Virtual Reality Project, but more on that in another post.
 
