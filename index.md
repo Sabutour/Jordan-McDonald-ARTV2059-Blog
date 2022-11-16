@@ -296,6 +296,8 @@ Space.
 
 Now, before this sounds like laziness, there is valid reason. One cannot simply exist in space without violent death. Dreams don't follow rules, you can be there in a dream. And I call it Project Tether because of the props. Parts of my bedroom, the bed, monitors, shelves, etc, will be floating around the player as they reside in a quiet, lonely haven in space. Away from the world, away from everything. Insulated. Cozy. Safe.
 
+Additionally, I plan on having music be an important part of this experience. Continuing on from my post on Bo Burnham's _Inside_ I plan on having the song _That Funny Feeling_ playing in both worlds, as if it's being heard from inside the dream and echoing inside. I feel the song, with it's quiet guitar strumming, and the campfire background sounds, will help to provide a cozy, fireside atmosphere mixed with existenstial dread that something is off or different about the dream world.
+
 More to come.
 
 # VR Time Capsule - Project Tether - Part 2
@@ -331,4 +333,18 @@ I've got everything into the scene now. The box on the ground seen here in the e
 
 Additionally, I have to bring up the soundtrack. Composer [Andrew Prahlow](http://www.andrewprahlow.com/) set out to make a soundtrack that is an _"extension of the heart of the game"_. His music focuses on _"larger-than-life, emotive soundscapes with a core of chamber-ensemble minimalism, hoping to create a sense of nostalgia and familiarity for the listener."_
 
-This is perfect for my space scene. An enourmous scene, the sun itself as your lightsource. But a sense of coziness and familiarity. This game is inspiring. This music is inspiring. And it would be criminal to not pay homage to it. More on that later.
+This is perfect for my space scene. An enourmous scene, the sun itself as your lightsource. But a sense of coziness and familiarity. This game is inspiring. This music is inspiring. And it would be criminal to not pay homage to it. I plan to use part of the soundtrack in my piece in conjuction with _That Funny Feeling_ More on that later. 
+
+# VR Time Capsule - Project Tether - Part 4
+
+I wanted my scene to have a dreamlike quality to it. Between the impossible visuals, the accompnaying music, and the atmosphere of being alone floating in space. And I wanted switching to the 360 degree video to feel like waking up. Waking up is often a destructive process for a dream. It becomes hard to remember, fading away. Dreams are ephemeral, temporary, and fleeting. So, in homage to the sun exploding in _Outer Wilds_ waking up from the dream will likewise involve the sun exploding, consuming the dream. 
+
+This works on a few levels. The first is that the dream is literally swallowed up by the sun as it expands, fading it away slowly as the dream is lost to the sensation of being awake. Additionally, most people wake up to daylight. The sun is quite literally the embodiment of daylight, shining in to break up the dream.
+
+I wanted a way to trigger the wake up sequence. I thought about making it on a timer, but this had the chance of someone missing it or not being ready to go. So instead I created a podium with a button using [this](https://www.youtube.com/watch?v=lPPa9y_czlE) tutorial that, when pressed, triggers the end of the dream. You have to decide when you're ready to leave it behind, but you can't go back. There's no way to re-enter the VR world from the 360 degree video. I wanted to emphasise the temporary and fragile nature of dreams. Being able to re-join whenever seemed contrary to this.
+
+![Image](https://i.imgur.com/4Ly4LJT.png)
+
+Additionally, on the podium is the sign "Wake Up". I wrote this to be clear to the player what it would do, and so they wouldn't press it immediately and leave the scene too early. But again, to emphasise the strangeness of the dream, I included a custom script I designed in another class. Seemed a fun use for it.
+
+When the sun explodes, the song [_End Times_](https://www.youtube.com/watch?v=t5vG4Be1Ci8) by Andrew Prahlow from the _Outer Wilds_ soundtrack plays, right up until the moment the sun engulfs the player. This was both reference and seemed deeply fitting. The song is slow, gradually building to a point. It was composed for this purpose.
